@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 export default function Movies() {
  const data =
@@ -19,7 +19,7 @@ export default function Movies() {
     "Title": "Avengers: Doomsday",
     "Year": "2026",
     "Runtime": "COMING SOON!",
-    "Poster": "https://preview.redd.it/avengers-doomsday-poster-featuring-the-confirmed-cast-so-v0-b8a68egs9n2f1.jpeg?width=600&crop=smart&auto=webp&s=6ee560e53f9d0b265abdf63d48ace4964d3c4555"
+    "Poster": "https://preview.redd.it/avengers-doomsday-poster-featuring-the-confirmed-cast-so-v0-b8a68egs9n2f1.jpeg?width=640&crop=smart&auto=webp&s=6ee560e53f9d0b265abdf63d48ace4964d3c4555"
   },
   {
     "Title": "John Wick",
